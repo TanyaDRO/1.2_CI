@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/cd7n9w0hhlw68w4s?svg=true)](https://ci.appveyor.com/project/TanyaDRO/1-2-api-ci)
